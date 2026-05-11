@@ -16,7 +16,7 @@
 ---
 
 ## 📜 Certifications
-- 🏅 Kaggle — Python (May 2026)
+- 🏅 QS ImpACT — QS ImpACT 2026 Skills Challenge Participant (April 2026)
 - 🏅 Certiport — IT Specialist - Databases (March 2025)
 
 ---
