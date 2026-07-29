@@ -1,5 +1,5 @@
 # John Matthew Opeña
-3rd Year BSIT Student | Seeking 2026 Internship
+4th Year BSIT Student | Seeking 2026 Internship
 📍 Laguna, Philippines
 
 ---
