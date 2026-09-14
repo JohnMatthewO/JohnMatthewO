@@ -17,6 +17,7 @@
 
 ## 📂 Projects
 - 🛒 [E-commerce Funnel Analysis](https://github.com/JohnMatthewO/ecommerce-funnel-analysis) — Funnel drop-off analysis using SQL, Python, and Power BI on the Olist dataset
+- 📊 [Superstore Sales Dashboard](https://github.com/JohnMatthewO/superstore-sales-dashboard) — Multi-page Power BI dashboard analyzing sales performance, profitability, and regional trends
 - 🎵 [Ariana Grande Spotify Analysis](https://github.com/JohnMatthewO/ariana-grande-spotify-analysis) — Exploratory data analysis on Spotify discography data using Python, Pandas, and Seaborn
 - 🐍 [Python Mini Projects](https://github.com/JohnMatthewO/python-mini-projects) — Collection of Python exercises and mini projects
 
